@@ -1,0 +1,12 @@
+Các bạn chọn thư mục của lab bạn cần, rồi mờile sql lên xem nha
+Riêng lab 1, có file .mdf và .ldf, các bạn mở file đó lên, ấn view raw để tải file về máy tính
+Sau đó, các bạn copy tất cả các file .mdf và .ldf, xong các bạn truy cập vào đường dẫn thư mục sau đây:
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA
+Rồi các bạn dán mấy file đó vào
+Sau đó các bạn mở Sql Server Management Studio lên
+Ở phần object ẽplorer, các bạn ấn chuột phải ở phần databale, chọn attach
+rồi ae ấn add, xong ae chọn hết các file .mdf mà ae mới copy vô
+nó sẽ tự chọn thêm file .ldf, ae chỉ việc ấn ok là database sẽ tự thêm nhaa
+
+Bản quyền thuộc về Hyper Networks Channel 1
+Sản xuất năm 2024
