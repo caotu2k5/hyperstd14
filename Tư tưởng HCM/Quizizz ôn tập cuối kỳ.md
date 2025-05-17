@@ -1,13 +1,16 @@
 Câu hỏi ôn tập thi kết thúc học phần Tư tưởng HCM
 
-Phiên bản: 1.0
+Phiên bản: 1.2
 
 Change log: 
 
 - Thêm chương 1
 
-Ae copy link và truy cập:
-Câu 1-45: [Click vào đây để xem file raw](https://raw.githubusercontent.com/yourusername/myrepo/main/files/data.txt)
+- Chuyển sang dạng Markdown (Đuôi file .md)
+
+Ae nhấn vào và truy cập:
+
+Câu 1-45: [Nhấn vào đây để ôn bài]( https://quizizz.com/join?gc=30936052)
 
 Câu 46-90: 
 
