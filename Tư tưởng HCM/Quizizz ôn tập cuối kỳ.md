@@ -2,7 +2,7 @@ Câu hỏi ôn tập thi kết thúc học phần Tư tưởng HCM
 
 Nghe nhạc phonk hay tại đây nhé :)) [Ấn dô đây để nghe hêhhe]( https://youtu.be/kPCuVXNmrLU?si=R1H1gEW0WI94Qa9v)
 
-Phiên bản: 4.2
+Phiên bản: 5.0
 
 Ae nhấn vào và truy cập:
 
@@ -22,13 +22,19 @@ Câu hỏi bổ sung 1-37: [Nhấn vào đây để ôn bài]( https://quizizz.c
 
 Câu hỏi bổ sung 38-74: [Nhấn vào đây để ôn bài]( https://quizizz.com/join?gc=17620876)
 
-Tự kiểm tra: Sẽ mở vào ngày 27/5
+Tự kiểm tra: 
+
+- 270 câu: [Tại đây]( https://quizizz.com/join?gc=48109644)
 
 Tải file 270 câu: [Tại đây]( https://github.com/caotu2k5/hyperstd14/blob/main/T%C6%B0%20t%C6%B0%E1%BB%9Fng%20HCM/270-TTHCM.pdf)
 
 File 73 câu hỏi bổ sung (Cập nhật 23/05/2025 - 21:50): [Tại đây]( https://github.com/caotu2k5/hyperstd14/raw/refs/heads/main/T%C6%B0%20t%C6%B0%E1%BB%9Fng%20HCM/B%E1%BB%99%20c%C3%A2u%20h%E1%BB%8Fi%20kh%C3%B4ng%20li%C3%AAn%20quan.docx) 
 
 Change log: 
+
+v5.0:
+
+- Đã thêm tự kiểm tra (270 câu) để kiểm tra mức độ ôn tập (Chỉ hiển thị đáp án sau khi làm xong)
 
 v4.2:
 
