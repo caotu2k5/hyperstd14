@@ -2,7 +2,7 @@ Câu hỏi ôn tập thi kết thúc học phần Tư tưởng HCM
 
 Nghe nhạc phonk hay tại đây nhé :)) [Ấn dô đây để nghe hêhhe]( https://youtu.be/kPCuVXNmrLU?si=R1H1gEW0WI94Qa9v)
 
-Phiên bản: 7.11
+Phiên bản: 7.1
 
 Ae nhấn vào và truy cập:
 
@@ -40,7 +40,7 @@ Change log:
 
 v7.1:
 
-- Sửa lỗi khồn vào được phần tự kiểm tra (Full bộ)
+- Sửa lỗi không vào được phần tự kiểm tra (Full bộ)
 
 v7.0:
 
